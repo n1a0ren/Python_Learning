@@ -1,5 +1,5 @@
-#Q2155 分组得分最高的所有下标 中等
-#https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/description/
+# Q2155 分组得分最高的所有下标 中等
+# https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/description/
 nums = [0]
 """
 已通关

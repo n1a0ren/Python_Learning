@@ -1,5 +1,5 @@
-#Q4 寻找两个正序数组的中位数 困难
-#https://leetcode.cn/problems/median-of-two-sorted-arrays/description/
+# Q4 寻找两个正序数组的中位数 困难
+# https://leetcode.cn/problems/median-of-two-sorted-arrays/description/
 nums1 = [1,2,3]
 nums2 = [2,3,4,5]
 """

@@ -1,5 +1,5 @@
-#Q5 最长回文（对称）字串 中等
-#https://leetcode.cn/problems/longest-palindromic-substring/description/
+# Q5 最长回文（对称）字串 中等
+# https://leetcode.cn/problems/longest-palindromic-substring/description/
 s = "babad"
 
 """
