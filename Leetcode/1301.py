@@ -50,7 +50,7 @@ def getMaxScore(board,x,y):
     if board[x][y] == "E" or board[x][y] == "S":
         return [best% (10**9+7),path% (10**9+7)]
     else:
-        return [best% (10**9+7)+int(board[x][y])% (10**9+7),path% (10**9+7)]
+        return [best+int(board[x][y]),path]
 
 print(getScore(board,0,0))
 print(scoreDict)
