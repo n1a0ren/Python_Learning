@@ -12,7 +12,7 @@ def f(n):
     else:
         numDict[n]=f(n-1)+f(n-2)
         return numDict[n]
-print(f(100))
+print(f(10))
 
 #用变量存储动态结构（不熟悉的方法）
 """def f(n):
